@@ -1,6 +1,6 @@
 # Challenge_14
 
-## The code published utilizes algorithmic trading strategies that use machine learning in order to autoomate trade decisions
+## The code published utilizes algorithmic trading strategies that use machine learning in to autoomate trade decisions
 
 ## Technologies Used 
 - python
